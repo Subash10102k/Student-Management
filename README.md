@@ -9,14 +9,14 @@
 
 
 <h3 align="center">Student Management</h3>
-
+This is a simple web application for managing student information. It allows you to:
 
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+- Add, edit, and delete student records
+- View a list of all students
+
 
 ## 📝 Table of Contents
 - [About](#about)
@@ -30,8 +30,14 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+This application is built using the following technologies:
 
+- React
+- Node.js
+- Spring Boot
+- MySQL
+- EJS templating engine
+- Bootstrap
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -84,10 +90,14 @@ Add additional notes about how to deploy this on a live system.
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+## ✍️ Contributing <a name = "Contributing"></a>
+If you would like to contribute to this project, please follow these guidelines:
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Make your changes and commit them to your branch
+- Push your changes to your forked repository
+- Submit a pull request to the main repository
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
