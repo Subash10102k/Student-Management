@@ -60,7 +60,7 @@ Test locally: Test your application locally to make sure everything is working a
 
 ```
 
-### Installing
+### Installing & Testing
 Install MySQL: 
 - You can download and install MySQL from the official website. Follow the instructions for your operating system to complete the installation process.
 
@@ -88,8 +88,8 @@ Create a React project:
 Connect to Spring Boot:
 -  Configure your React application to connect to the Spring Boot application you created earlier. You can use the fetch API or a library like Axios to make HTTP requests to the Spring Boot REST API.
 
-Run the application:
--  Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application.
+Run & Test:
+-  Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application to ensure that your component is working correctly.
 
 
 
