@@ -8,13 +8,10 @@
 </p>
 
 <h3 align="center">Student Management</h3>
-This is a simple web application for managing student information. It allows you to:
-
+This is a simple web application for managing student information It allows you to:
 ---
-
 - Add, edit, and delete student records
 - View a list of all students
-
 
 ## 📝 Table of Contents
 - [About](#about)
