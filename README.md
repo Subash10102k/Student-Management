@@ -7,10 +7,8 @@
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
 </p>
 
-
 <h3 align="center">Student Management</h3>
 This is a simple web application for managing student information. It allows you to:
-
 
 ---
 
@@ -36,11 +34,9 @@ This application is built using the following technologies:
 - Node.js
 - Spring Boot
 - MySQL
-- EJS templating engine
-- Bootstrap
-## 🏁 Getting Started <a name = "getting_started"></a>
-TStudent Management System is a web-based application that helps educational institutions manage their student records. This system provides a platform for students, teachers, and administrators to interact and manage data in a secure and efficient manner. In this tutorial, we will be deploying the Student Management System using MySQL, Spring Boot, React, and Node.js.. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
+## 🏁 Getting Started <a name = "getting_started"></a>
+The Student Management System is a web-based application that helps educational institutions manage their student records. This system provides a platform for students, teachers, and administrators to interact and manage data in a secure and efficient manner. In this we will be deploying the Student Management System using MySQL, Spring Boot, React, and Node.js.
 ### Prerequisites
 Before we begin, make sure you have the following software installed on your computer:
 
@@ -60,7 +56,7 @@ Test locally: Test your application locally to make sure everything is working a
 
 ```
 
-### Installing & Testing
+### Installing 
 Install MySQL: 
 - You can download and install MySQL from the official website. Follow the instructions for your operating system to complete the installation process.
 
@@ -74,7 +70,7 @@ Create a Spring Boot project:
 -  Create a new Spring Boot project using your favorite IDE or the Spring Boot CLI. You can use the Spring Initializr to create a basic project structure with the necessary dependencies.
 
 Connect to MySQL: 
-- Configure your Spring Boot application to connect to the MySQL database you created earlier. You can use the Spring Data JPA to handle the database connectivity.
+- Configure your Spring Boot application to connect to the MySQL database you created earlier. You can use the Spring Data JPA to handle the database connectivity and it can be tested using Postman.
 
 Install Node.js: 
 - You can download and install Node.js from the official website. Follow the instructions for your operating system to complete the installation process.
@@ -96,9 +92,7 @@ Start both the Spring Boot and React applications and test the student managemen
 
 ## 🎈 Usage <a name="usage"></a>
 ---
-A Student Management System (SMS) is an application that allows educational institutions to manage and organize their student-related data. The system can store information about students, courses, grades, attendance, and more. In this article, we will discuss the usage of a Student Management System built using MySQL, Spring Boot, React, and Node.js.
-
-MySQL is a popular open-source relational database management system that is widely used in enterprise applications. Spring Boot is a Java-based framework used for creating web applications. React is a popular JavaScript library used for building user interfaces, while Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+A Student Management System (SMS) is an application that allows educational institutions to manage and organize their student-related data. The system can store information about students, courses, grades, attendance, and more. In this we will discuss the usage of a Student Management System built using MySQL, Spring Boot, React, and Node.js.
 
 Here's a brief overview of how these technologies can be used to build a Student Management System:
 
