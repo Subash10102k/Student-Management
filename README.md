@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=100px src="logo.png" alt="Project logo"></a>
+ <img width=600px height=200px src="logo1.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Student Management</h3>
