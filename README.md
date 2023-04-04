@@ -45,16 +45,20 @@ Before we begin, make sure you have the following software installed on your com
 - Node.js and npm
 - React
 
-```
-Set up your environment:Ensure that your development environment is properly configured for each of the technologies you'll be using. This includes installing MySQL, Node.js, and any necessary dependencies for React and Spring Boot.
+---
+### Set up your environment:
+Ensure that your development environment is properly configured for each of the technologies you'll be using. This includes installing MySQL, Node.js, and any necessary dependencies for React and Spring Boot.
 
-Build your backend: Start by building your backend with Spring Boot and MySQL. Define your data schema, create your API endpoints, and test them to ensure they're functioning correctly.
+### Build your backend: 
+Start by building your backend with Spring Boot and MySQL. Define your data schema, create your API endpoints, and test them to ensure they're functioning correctly.
 
-Build your frontend: Next, build your frontend with React and Node.js. Create your components and define your UI, making sure to connect to your backend APIs.
+### Build your frontend: 
+Next, build your frontend with React and Node.js. Create your components and define your UI, making sure to connect to your backend APIs.
 
-Test locally: Test your application locally to make sure everything is working as expected. This involves running both your frontend and backend, making sure they're properly communicating with each other.
+### Test locally: 
+Test your application locally to make sure everything is working as expected. This involves running both your frontend and backend, making sure they're properly communicating with each other.
 
-```
+---
 
 ### Installing 
 Install MySQL: 
@@ -86,9 +90,9 @@ Connect to Spring Boot:
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-```
+---
 Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application to ensure that your component is working correctly.
-```
+---
 
 ## 🎈 Usage <a name="usage"></a>
 ---
