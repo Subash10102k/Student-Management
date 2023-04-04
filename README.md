@@ -100,6 +100,7 @@ If you would like to contribute to this project, please follow these guidelines:
 - Submit a pull request to the main repository
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [React](https://react.dev/)
+- [MySQL](https://dev.mysql.com/doc/)
+- [Spring Boot](https://spring.io/) & [Spring Tool Suit](https://spring.io/tools)
+- [NodeJS](https://nodejs.org/en/docs)
