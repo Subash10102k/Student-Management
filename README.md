@@ -39,31 +39,59 @@ This application is built using the following technologies:
 - EJS templating engine
 - Bootstrap
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+TStudent Management System is a web-based application that helps educational institutions manage their student records. This system provides a platform for students, teachers, and administrators to interact and manage data in a secure and efficient manner. In this tutorial, we will be deploying the Student Management System using MySQL, Spring Boot, React, and Node.js.. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+Before we begin, make sure you have the following software installed on your computer:
+
+- MySQL Server
+- Spring Boot CLI
+- Node.js and npm
+- React
 
 ```
-Give examples
+Set up your environment:Ensure that your development environment is properly configured for each of the technologies you'll be using. This includes installing MySQL, Node.js, and any necessary dependencies for React and Spring Boot.
+
+Build your backend: Start by building your backend with Spring Boot and MySQL. Define your data schema, create your API endpoints, and test them to ensure they're functioning correctly.
+
+Build your frontend: Next, build your frontend with React and Node.js. Create your components and define your UI, making sure to connect to your backend APIs.
+
+Test locally: Test your application locally to make sure everything is working as expected. This involves running both your frontend and backend, making sure they're properly communicating with each other.
+
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
+Install MySQL: 
+- You can download and install MySQL from the official website. Follow the instructions for your operating system to complete the installation process.
 
-Say what the step will be
+Create a database: 
+- Once MySQL is installed, create a database for your student management system. You can use the MySQL command-line interface or a GUI tool like MySQL Workbench to create a new database.
 
-```
-Give the example
-```
+Install Spring Boot: 
+- You can download and install Spring Boot from the official website. Follow the instructions for your operating system to complete the installation process.
 
-And repeat
+Create a Spring Boot project:
+-  Create a new Spring Boot project using your favorite IDE or the Spring Boot CLI. You can use the Spring Initializr to create a basic project structure with the necessary dependencies.
 
-```
-until finished
-```
+Connect to MySQL: 
+- Configure your Spring Boot application to connect to the MySQL database you created earlier. You can use the Spring Data JPA to handle the database connectivity.
 
-End with an example of getting some data out of the system or using it for a little demo.
+Install Node.js: 
+- You can download and install Node.js from the official website. Follow the instructions for your operating system to complete the installation process.
+
+Install React:
+-  Once Node.js is installed, you can use the Node Package Manager (npm) to install React. Open your terminal or command prompt and run the following command: npm install react
+
+Create a React project: 
+- Create a new React project using your favorite IDE or the Create React App CLI. You can use the npx create-react-app command to create a basic project structure with the necessary dependencies.
+
+Connect to Spring Boot:
+-  Configure your React application to connect to the Spring Boot application you created earlier. You can use the fetch API or a library like Axios to make HTTP requests to the Spring Boot REST API.
+
+Run the application:
+-  Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application.
+
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
@@ -83,7 +111,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
+![bg width:1000px](./FlowChart.png)
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
