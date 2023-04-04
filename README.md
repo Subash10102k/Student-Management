@@ -88,26 +88,34 @@ Create a React project:
 Connect to Spring Boot:
 -  Configure your React application to connect to the Spring Boot application you created earlier. You can use the fetch API or a library like Axios to make HTTP requests to the Spring Boot REST API.
 
-Run & Test:
--  Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application to ensure that your component is working correctly.
-
-
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
 ```
-Give an example
+Start both the Spring Boot and React applications and test the student management system. You can run the file as a java application to start the Spring Boot application and the npm start command to start the React application to ensure that your component is working correctly.
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+---
+A Student Management System (SMS) is an application that allows educational institutions to manage and organize their student-related data. The system can store information about students, courses, grades, attendance, and more. In this article, we will discuss the usage of a Student Management System built using MySQL, Spring Boot, React, and Node.js.
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+MySQL is a popular open-source relational database management system that is widely used in enterprise applications. Spring Boot is a Java-based framework used for creating web applications. React is a popular JavaScript library used for building user interfaces, while Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+Here's a brief overview of how these technologies can be used to build a Student Management System:
+
+Database Design: 
+-  The first step in building a Student Management System is to design the database schema. You can use MySQL Workbench to create a database schema that will store information about students, courses, grades, attendance, and more.
+
+Backend Development: 
+-  Once the database schema is designed, you can use Spring Boot to create a RESTful API that will handle CRUD (Create, Read, Update, Delete) operations on the database. The API can be built using Java and Spring Boot, and it can be tested using Postman.
+
+Frontend Development:
+-   After the API is built, you can use React to create a user interface that will interact with the API. You can create forms for adding new students, courses, and grades, as well as tables for displaying the data.
+
+Integration: 
+-  Finally, you can use Node.js to integrate the backend API with the frontend UI. Node.js can be used to serve the React application and communicate with the Spring Boot API.
+---
+By using these technologies, you can create a robust and scalable Student Management System that can handle the needs of educational institutions of any size. With MySQL for the database, Spring Boot for the backend, React for the frontend, and Node.js for integration, you can create a powerful system that will help educational institutions manage their student data with ease.
+
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
